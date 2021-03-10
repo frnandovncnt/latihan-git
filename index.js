@@ -11,3 +11,6 @@ console.log("Baris Kelima");
 
 // Kamis
 console.log("Baris Keenam");
+
+// Jumat
+console.log("Baris Ketujuh");
